@@ -4,7 +4,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -20,10 +19,6 @@ A simple QR code component built with semantic HTML and modern CSS to practice r
 
 ![desktop view](./images/screenshot.png)
 ![mobile view](./images/screenshot2.png)
-
-### Links
-
-- Live Site URL: https://your-live-site-url.com
 
 ## My Process
 
@@ -46,7 +41,7 @@ I plan to explore advanced CSS features like CSS Grid and custom properties to f
 
 ## Author
 
-- **Your Name** - [GitHub Profile](https://github.com/imagineBillie)
+- **Me 😁** - [GitHub Profile](https://github.com/imagineBillie)
 
 ## Acknowledgments
 
