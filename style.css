@@ -18,16 +18,15 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    /* existing styles remain */
 }
 
 .container{
     background-color: white;
     border-radius: 20px;
     padding: 15px;
-    width: 100%; /* Adjusted for better mobile responsiveness */
-    max-width: 320px; /* Limits maximum width */
-    height: auto; /* Let content determine height */
+    width: 90vw;
+    max-width: 320px;
+    height: auto;
     text-align: center;
 }
 
@@ -38,7 +37,7 @@ body {
     img{
         border-radius: 10px;
         width: 100%;
-        height: auto; /* Maintain aspect ratio */
+        height: auto;
     }
 
     h1{

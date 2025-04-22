@@ -46,4 +46,3 @@ I plan to explore advanced CSS features like CSS Grid and custom properties to f
 ## Acknowledgments
 
 - Thanks to Frontend Mentor for the challenge prompts and support.
-
